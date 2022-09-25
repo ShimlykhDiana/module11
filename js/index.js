@@ -85,7 +85,7 @@ const getColorClass = (color) => {
     case 'фиолетовый':
       result = 'fruit_violet';
       break;
-    case 'зелёный':
+    case 'зеленый':
       result = 'fruit_green';
       break;
     case 'розово-красный':
@@ -98,7 +98,7 @@ const getColorClass = (color) => {
       result = 'fruit_lightbrown';
       break;
     default:
-      result = 'fruit_green';
+      result = 'fruit_silver';
       break;
   }
   return result;

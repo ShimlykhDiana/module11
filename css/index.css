@@ -126,6 +126,9 @@ main {
 .fruit_lightbrown {
   background: BurlyWood;
 }
+.fruit_silver {
+  background: rgba(178, 176, 176, 0.926)
+}
 
 .fruit__info {
   display: flex;
