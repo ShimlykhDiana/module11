@@ -108,23 +108,23 @@ main {
 }
 
 .fruit_violet {
-  background: #8b00ff;
+  background: Plum;
 }
 
 .fruit_green {
-  background: #84cd1b;
+  background: DarkSeaGreen;
 }
 
 .fruit_carmazin {
-  background: #dc143c;
+  background: LightCoral;
 }
 
 .fruit_yellow {
-  background: #ffd800;
+  background: PeachPuff;
 }
 
 .fruit_lightbrown {
-  background: #cd853f;
+  background: BurlyWood;
 }
 
 .fruit__info {
